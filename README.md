@@ -1,6 +1,8 @@
  Hi, I’m Tingan111
 我對前端工程師有興趣
-目前主要練習javascript.react hook
+目前主要練習
+Javascript
+React hook
 
 <!---
 Tingan111/Tingan111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
