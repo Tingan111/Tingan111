@@ -12,7 +12,7 @@
 ---
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bucky0112&layout=compact&theme=radical&hide=html,stylus,scss,css,pug,ejs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tingan111&layout=compact&theme=radical&hide=html,stylus,scss,css,pug,ejs)
 ---
 歡迎交流或給我建議！😊
 
