@@ -10,8 +10,12 @@
 ## 🚀 我的目標
 - 持續學習更多前端新技術
 ---
+### 📊 GitHub Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bucky0112&layout=compact&theme=radical&hide=html,stylus,scss,css,pug,ejs)
+---
 歡迎交流或給我建議！😊
+
 
 <!---
 Tingan111/Tingan111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
