@@ -7,12 +7,6 @@
 - React Hooks
 - Typescript
 - Vue3
-## 🚀 我的目標
-- 持續學習更多前端新技術
----
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tingan111&layout=compact&theme=radical&hide=html,stylus,scss,css,pug,ejs)
 ---
 歡迎交流或給我建議！😊
 
