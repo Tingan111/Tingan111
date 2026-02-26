@@ -6,7 +6,6 @@
 - JavaScript
 - React Hooks
 - Typescript
-- Vue3
 ---
 歡迎交流或給我建議！😊
 
