@@ -1,16 +1,17 @@
-# Hi, I’m Tingan111 👋
+# Hi, I'm Tingan111 👋
 
-🌱 我對 **前端工程師** 充滿熱情，目前專注於提升自己的技能。
+💻 **Frontend Developer** | React · Next.js · TypeScript
 
-## 🔧 目前練習的技術
-- JavaScript
-- React Hooks
-- Typescript
----
-歡迎交流或給我建議！😊
+我是一名前端開發者，具備前後端開發經驗，曾參與團隊專案，負責前端介面實作、RWD 響應式設計及 RESTful API 串接。
 
+## 🔧 Tech Stack
 
-<!---
-Tingan111/Tingan111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* JavaScript
+* TypeScript
+* React
+* Next.js
+* Tailwind CSS
+* Git
+目前持續透過實作累積開發經驗，精進前端開發技能。
+
+📫 歡迎交流與指教！
